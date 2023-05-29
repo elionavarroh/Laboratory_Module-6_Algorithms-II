@@ -1,0 +1,19 @@
+header {
+    top: auto;
+    text-align: left;
+    font-size: xx-large;
+    color: blue;
+    width: auto;
+    margin-top: 2pc;
+}
+
+textarea {
+    text-align: left;
+    margin-top: 2pc;
+    block-size: 3cm;
+}
+
+button {
+    text-align: center;
+    margin-top: 2pc;
+}
